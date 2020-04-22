@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/HyneTesting/Test%20AKS%20pipeline/_apis/build/status/hynetimber.pipelines-javascript-docker?branchName=master)](https://dev.azure.com/HyneTesting/Test%20AKS%20pipeline/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
