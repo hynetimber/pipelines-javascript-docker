@@ -16,9 +16,6 @@ variables:
   dockerfilePath: '$(Build.SourcesDirectory)/app/Dockerfile'
   tag: '$(Build.BuildId)'
   DOCKER_BUILDKIT: 1
-  HelmKeyPassPhrase: $(HelmKeyPassphrase)
-  keyName: HelmKey gillitt@hyne.com.au
-
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
