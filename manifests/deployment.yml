@@ -4,6 +4,9 @@ metadata:
   name: hynetimberpipelinesjavascriptdocker 
 spec:
   replicas: 1
+  selector:
+    matchLabels:
+      app: hynetimberpipelinesjavascriptdocker
   template:
     metadata:
       labels:
